@@ -6,6 +6,7 @@ Data Structures Algorithm
 [BANKING PROJECT](BANKING_PROJECT.py)  
 [FILE ENCRYPTION AND DECRYPTION](File_Encrypt_Decrypt.c)  
 [SELECTION SORT](Selection_sort.py)  
+[BASIC STACK](Basic_Stack.py)
 
 
 
